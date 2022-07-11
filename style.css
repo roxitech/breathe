@@ -109,9 +109,10 @@ body {
 
  #fixed{
         position:fixed;
-        bottom:0px;
+        bottom:40px;
         center:0px;
 		height:2000px;
+	 width:1000px;
     }
 
 @keyframes text {
