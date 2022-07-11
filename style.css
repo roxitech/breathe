@@ -108,10 +108,10 @@ body {
 }
 
  #fixed{
-        
+        position:fixed;
         bottom:40px;
         center:0px;
-		height:400px;
+		height:40px;
 	 
     }
 
