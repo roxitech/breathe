@@ -9,8 +9,8 @@ body {
 }
 
 .container {
-  width: 700px;
-  height: 700px;
+  width: 1000px;
+  height: 1000px;
   border-radius: 50%;
   position: relative;
 	animation-name: pulse;
@@ -111,7 +111,7 @@ body {
         position:fixed;
         bottom:0px;
         center:0px;
-		height:20px;
+		height:200px;
     }
 
 @keyframes text {
