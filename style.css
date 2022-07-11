@@ -108,11 +108,11 @@ body {
 }
 
  #fixed{
-        position:fixed;
+        
         bottom:40px;
         center:0px;
-		height:2000px;
-	 width:1000px;
+		height:4000px;
+	 
     }
 
 @keyframes text {
